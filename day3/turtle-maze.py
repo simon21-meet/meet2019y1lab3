@@ -1,2 +1,3 @@
 import turtle
-turtle.forward(50)
+turtle.pensize(3)
+turtle.circle(90,half)
